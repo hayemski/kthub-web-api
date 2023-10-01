@@ -1,0 +1,11 @@
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+KtHub.Api/bin/*
+KtHub.Api/obj/*
+KtHub.Domain/bin/*
+KtHub.Domain/obj/*
+.vs/*
