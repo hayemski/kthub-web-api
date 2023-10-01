@@ -1,0 +1,15 @@
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\bin\Debug\net8.0\KtHub.Application.deps.json
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\bin\Debug\net8.0\KtHub.Application.dll
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\bin\Debug\net8.0\KtHub.Application.pdb
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\KtHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\KtHub.Application.AssemblyInfoInputs.cache
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\KtHub.Application.AssemblyInfo.cs
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\KtHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\KtHub.Application.dll
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\refint\KtHub.Application.dll
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\KtHub.Application.pdb
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\ref\KtHub.Application.dll
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\bin\Debug\net8.0\KtHub.Domain.dll
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\bin\Debug\net8.0\KtHub.Domain.pdb
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\KtHub.Application.csproj.AssemblyReference.cache
+C:\Users\F\Desktop\kthub-web-api\KtHub.Application\obj\Debug\net8.0\KtHub.Application.csproj.CopyComplete

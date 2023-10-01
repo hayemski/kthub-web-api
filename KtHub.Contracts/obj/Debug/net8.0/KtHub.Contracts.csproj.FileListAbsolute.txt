@@ -1,0 +1,11 @@
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\bin\Debug\net8.0\KtHub.Contracts.deps.json
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\bin\Debug\net8.0\KtHub.Contracts.dll
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\bin\Debug\net8.0\KtHub.Contracts.pdb
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\obj\Debug\net8.0\KtHub.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\obj\Debug\net8.0\KtHub.Contracts.AssemblyInfoInputs.cache
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\obj\Debug\net8.0\KtHub.Contracts.AssemblyInfo.cs
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\obj\Debug\net8.0\KtHub.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\obj\Debug\net8.0\KtHub.Contracts.dll
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\obj\Debug\net8.0\refint\KtHub.Contracts.dll
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\obj\Debug\net8.0\KtHub.Contracts.pdb
+C:\Users\F\Desktop\kthub-web-api\KtHub.Contracts\obj\Debug\net8.0\ref\KtHub.Contracts.dll
