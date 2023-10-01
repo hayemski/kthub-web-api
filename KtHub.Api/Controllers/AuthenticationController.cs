@@ -16,8 +16,7 @@ public class AuthenticationController : ControllerBase
         _authenticationService = authenticationService;
     }
 
-
-    [Route("register")]
+    [HttpPost("register")]
     public IActionResult Register(RegisterRequest request)
     {
         var authResult = _authenticationService.Register(request.Username, request.Password, request.Email);
@@ -25,7 +24,7 @@ public class AuthenticationController : ControllerBase
         return Ok(authResult);
     }
 
-    [Route("login")]
+    [HttpPost("login")]
     public IActionResult Login(LoginRequest request)
     {
         var authResult = _authenticationService.Login(request.Username, request.Password);
